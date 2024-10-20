@@ -1,0 +1,12 @@
+[Variables]
+Scale=1
+latitude =31.520370
+longitude =74.358749
+FontColor=255,255,255
+WeatherFormat=C
+FontFace=SF Pro Rounded
+Celcius=1
+Skin.Name=WeatherSurvive
+
+BackGorund_Color=255,255,255
+BackGorund_Opacity=100
