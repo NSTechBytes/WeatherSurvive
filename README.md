@@ -30,7 +30,7 @@ To customize the skin:
 
 
 ## Preview
-![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/ModernSearchBar/ModernSearchBar.png) <!-- Add a link to your image or GIF preview -->
+![Preview](https://github.com/NSTechBytes/Projects-Templates/blob/main/RainmeterSkins/WeatherSurvive/Screenshot%20(152).png) <!-- Add a link to your image or GIF preview -->
 
 ## How to Contribute
 
